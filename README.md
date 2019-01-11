@@ -1,2 +1,2 @@
 # DesignPatterns
-Demo of design patters for iOS
+Demo of design patterns for iOS
